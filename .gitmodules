@@ -1,0 +1,8 @@
+[submodule "charts/v0.3.0/harbor-helm"]
+	path = charts/v0.3.0/harbor-helm
+	url = https://github.com/goharbor/harbor-helm.git
+	branch = stable
+[submodule "charts/harbor/v0.3.0/harbor-helm"]
+	path = charts/harbor/v0.3.0/harbor-helm
+	url = https://github.com/goharbor/harbor-helm.git
+	branch = 0.3.0
